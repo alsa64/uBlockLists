@@ -1,0 +1,15 @@
+[Adblock Plus 3.4]
+! Title: Nexus Mods Cleaner
+! Expires: 4 days
+! Description: Removes things like Vortex adverts and other annoyances.
+! Homepage: https://github.com/alsa64/uBlockLists/
+! Licence: https://github.com/alsa64/uBlockLists/blob/master/LICENSE
+
+! https://www.nexusmods.com
+! Supporter stuff / Premium advertizements
+www.nexusmods.com##.background-1.premium-block--register.premium-block
+www.nexusmods.com##.rj-supporter-wrapper
+
+! Vortex Mod Manager Links
+www.nexusmods.com###rj-vortex
+www.nexusmods.com##.active.rj-header-tray-mods.rj-header-tray-content > .rj-grid-12 > .col-rg-pad-2-12.col-rg-10-12.col-xs-12-12 > .rj-mods-content-wrapper.rj-header-content-wrapper > .rj-mods-links > .rj-panel.rj-mods-vortex

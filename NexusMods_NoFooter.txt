@@ -1,0 +1,16 @@
+[Adblock Plus 3.4]
+! Title: Nexus Mods Cleaner
+! Expires: 4 days
+! Description: Removes the footer. You can still get to all important pages easily without it, but it sure declutters pages a lot.
+! Homepage: https://github.com/alsa64/uBlockLists/
+! Licence: https://github.com/alsa64/uBlockLists/blob/master/LICENSE
+
+! https://www.nexusmods.com
+! Removes all 3 components of the footer individually, leaving the page up button.
+
+! Links to important pages on the Nexus
+www.nexusmods.com###rj-sitemap
+! Social stuff, like link to the Nexus Discord server
+www.nexusmods.com###rj-logo-social
+! Privacy Policy link, copyright
+www.nexusmods.com###rj-foot

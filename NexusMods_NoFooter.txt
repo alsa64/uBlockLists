@@ -1,5 +1,5 @@
 [Adblock Plus 3.4]
-! Title: Nexus Mods Cleaner
+! Title: Nexus Mods - Remove footer
 ! Expires: 4 days
 ! Description: Removes the footer. You can still get to all important pages easily without it, but it sure declutters pages a lot.
 ! Homepage: https://github.com/alsa64/uBlockLists/

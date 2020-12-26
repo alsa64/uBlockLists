@@ -7,13 +7,21 @@
 
 
 ! https://temp-mail.org
+
 ! Yes I know what a temp mail address is
 temp-mail.org##.mid-intro-text
+
 ! I am not here for news
 temp-mail.org##.section-populer-article
+
 ! The footer wastes space, I want only the temp mails please
 temp-mail.org##.page-footer
+
+! Don't load images for footer, since we remove it anyways
+||temp-mail.org/images/icons/footer/*$image,1p
+
 ! No I don't want premium, don't know why I would, but ok
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
+
 ! No I also don't want to download your app
 temp-mail.org##.hidden-xs-sm.align-v-mid.col > .btn-appstore

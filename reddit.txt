@@ -1,0 +1,10 @@
+[Adblock Plus 3.4]
+! Title: Reddit - No Coinsale
+! Expires: 4 days
+! Description: Currently only removes the 'Coin Sale' Button
+! Homepage: https://github.com/alsa64/uBlockLists/
+! Licence: https://github.com/alsa64/uBlockLists/blob/master/LICENSE
+
+! https://www.reddit.com
+! Remove 'Coin Sale' Button
+www.reddit.com##._1dJtiWITrnvIbQdXgYgdym._1t5i5bNwZeJ7FuUXZ9rM-p

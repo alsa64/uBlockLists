@@ -16,3 +16,6 @@ www.nexusmods.com##.active.rj-header-tray-mods.rj-header-tray-content > .rj-grid
 
 ! Remove ad Replacer for when adverts are blocked
 www.nexusmods.com##.areplacer
+
+! Sponsorships
+www.nexusmods.com##.asus-competition-block

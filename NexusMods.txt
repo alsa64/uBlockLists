@@ -14,6 +14,9 @@ www.nexusmods.com##.rj-supporter-wrapper
 www.nexusmods.com###rj-vortex
 www.nexusmods.com##.active.rj-header-tray-mods.rj-header-tray-content > .rj-grid-12 > .col-rg-pad-2-12.col-rg-10-12.col-xs-12-12 > .rj-mods-content-wrapper.rj-header-content-wrapper > .rj-mods-links > .rj-panel.rj-mods-vortex
 
+! Annoying "You have been selected as a alpha tester for Vortex - Collections banner"
+www.nexusmods.com###collections_alpha_banner
+
 ! Remove ad Replacer for when adverts are blocked
 www.nexusmods.com##.areplacer
 
